@@ -1,0 +1,14 @@
+.Footer {
+  box-sizing: border-box;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+  padding: 1em;
+  margin-bottom: 2em;
+  background-color: rgb(0, 0, 54.5);
+  color: #fff
+}
+.Title-Subtitle {
+  color: rgba(255, 255, 255, 0.75)
+}
